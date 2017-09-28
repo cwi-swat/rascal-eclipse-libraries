@@ -4,4 +4,4 @@ in Eclipse. They all depend on the rascal-eclipse project which is delivered thr
 update site.
 
 The libraries are in different states of development, as are their licenses. The license of
-these meta-data projects is all BSD.
+these meta-data projects is all BSD..
