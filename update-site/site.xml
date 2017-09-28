@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/clair_feature_0.1.0.201709131919.jar" id="clair_feature" version="0.1.0.201709131919">
+   <feature url="features/shapes_feature_1.0.0.201709131919.jar" id="shapes_feature" version="1.0.0.201709131919">
       <category name="RascalLibraries"/>
    </feature>
-   <feature url="features/shapes_feature_1.0.0.201709131919.jar" id="shapes_feature" version="1.0.0.201709131919">
+   <feature url="features/clair_feature_0.1.0.qualifier.jar" id="clair_feature" version="0.1.0.qualifier">
       <category name="RascalLibraries"/>
    </feature>
    <category-def name="RascalLibraries" label="Rascal Libraries"/>
