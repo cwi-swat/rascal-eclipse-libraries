@@ -10,7 +10,7 @@
 
 	<modules>
 		<module>shapes-feature</module>
-<!--		<module>clair-feature</module> -->
+		<module>clair-feature</module>
 		<module>update-site</module>
 	</modules>
 
