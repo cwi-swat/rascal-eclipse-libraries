@@ -19,7 +19,7 @@
 		</dependency>
 		<dependency>
 			<groupId>io.usethesource</groupId>
-			<artifactId>rascal-eclipse</artifactId>
+			<artifactId>rascal_eclipse</artifactId>
 			<version>0.8.4-SNAPSHOT</version>
 		</dependency>
 		
