@@ -8,7 +8,7 @@
 		<version>0.1.0-SNAPSHOT</version>
 	</parent>
 
-	<artifactId>shapes-feature</artifactId>
+	<artifactId>shapes_feature</artifactId>
 	<packaging>eclipse-feature</packaging>
 
 	<dependencies>
