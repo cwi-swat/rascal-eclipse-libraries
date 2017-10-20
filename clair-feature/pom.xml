@@ -17,11 +17,5 @@
 			<artifactId>clair</artifactId>
 			<version>${project.version}</version>
 		</dependency>
-		<dependency>
-			<groupId>org.rascalmpl</groupId>
-			<artifactId>rascal_eclipse</artifactId>
-			<version>0.9.0</version>
-		</dependency>
-		
 	</dependencies>
 </project>
