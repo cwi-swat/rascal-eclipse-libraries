@@ -6,6 +6,9 @@
    <feature url="features/clair_feature_0.1.0.qualifier.jar" id="clair_feature" version="0.1.0.qualifier">
       <category name="rascal_libraries"/>
    </feature>
+   <feature url="features/salix_feature_0.1.0.qualifier.jar" id="salix_feature" version="0.1.0.qualifier">
+      <category name="rascal_libraries"/>
+   </feature>
    <feature url="features/TypePal_feature_0.1.0.qualifier.jar" id="TypePal_feature" version="0.1.0.qualifier">
       <category name="rascal_libraries"/>
    </feature>
