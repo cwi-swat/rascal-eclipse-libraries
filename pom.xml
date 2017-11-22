@@ -19,6 +19,7 @@
 		<module>clair-feature</module>
 		<module>salix-feature</module>
 		<module>TypePal-feature</module>
+		<module>bacata-feature</module>
 		<module>update-site</module>
 	</modules>
 
