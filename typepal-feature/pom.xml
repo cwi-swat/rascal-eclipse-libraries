@@ -10,6 +10,7 @@
 
 	<artifactId>typepal_feature</artifactId>
 	<packaging>eclipse-feature</packaging>
+    <version>0.2.0-SNAPSHOT</version>
 
 	<dependencies>
 		<dependency>
