@@ -33,18 +33,5 @@
             <id>usethesource-snapshots</id>
             <url>http://nexus.usethesource.io/content/repositories/snapshots/</url>
         </repository>
-
-        <repository>
-            <id>usethesource-rascalmpl-unstable</id>
-            <layout>p2</layout>
-            <url>https://update.rascal-mpl.org/unstable/</url>
-        </repository>
-
-
-        <repository>
-            <id>neon</id>
-            <layout>p2</layout>
-            <url>http://nexus.usethesource.io/content/repositories/eclipse-neon/</url>
-        </repository>
     </repositories>
 </project>
