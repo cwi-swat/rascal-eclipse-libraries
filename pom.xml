@@ -18,8 +18,7 @@
 		<module>shapes-feature</module>
 		<module>clair-feature</module>
 		<module>salix-feature</module>
-		<module>TypePal-feature</module>
-		<module>bacata-feature</module>
+		<module>typepal-feature</module>
 		<module>update-site</module>
 	</modules>
 
@@ -29,5 +28,10 @@
 		<tycho-version>0.25.0</tycho-version>
 	</properties>
 
-
+    <repositories>
+        <repository>
+            <id>usethesource-snapshots</id>
+            <url>http://nexus.usethesource.io/content/repositories/snapshots/</url>
+        </repository>
+    </repositories>
 </project>
