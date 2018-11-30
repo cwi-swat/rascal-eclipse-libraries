@@ -4,13 +4,15 @@
       label="bacata_feature"
       version="0.1.0.qualifier">
 
-   <description url="https://github.com/cwi-swat/bacata-core">
+   <description url="https://github.com/cwi-swat/bacata">
       This is a Rascal library which bridges the Jupyter notebook platform
 to the Rascal language workbench.
    </description>
 
    <copyright>
-      Copyright (c) 2016-2017, Mauricio Verano Merino, Eindhoven University of Technology &amp; Centrum Wiskunde en Informatica
+      Copyright (c) 2016-2018, Mauricio Verano Merino, Jurgen Vinju,
+and Tijs van der Storm, Eindhoven University
+of Technology &amp; Centrum Wiskunde en Informatica
 All rights reserved.
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions
@@ -35,8 +37,9 @@ OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
 EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
    </copyright>
 
-   <license url="https://github.com/cwi-swat/bacata-core">
-      Copyright (c) 2016-2017, Mauricio Verano Merino, Eindhoven University of Technology &amp; Centrum Wiskunde en Informatica
+   <license url="https://github.com/cwi-swat/bacata">
+      Copyright (c) 2016-2018, Mauricio Verano Merino, Jurgen Vinju,
+and Tijs van der Storm, Eindhoven University of Technology &amp; Centrum Wiskunde en Informatica
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
