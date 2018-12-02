@@ -2,7 +2,7 @@
 <feature
       id="bacata_feature"
       label="bacata_feature"
-      version="0.1.0.qualifier">
+      version="0.1.1.qualifier">
 
    <description url="https://github.com/cwi-swat/bacata">
       This is a Rascal library which bridges the Jupyter notebook platform
@@ -52,7 +52,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot;AS IS&
    </license>
 
    <plugin
-         id="bacata"
+         id="bacata-rascal"
          download-size="0"
          install-size="0"
          version="0.0.0"
