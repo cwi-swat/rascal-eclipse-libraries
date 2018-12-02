@@ -52,7 +52,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot;AS IS&
    </license>
 
    <plugin
-         id="bacata-rascal"
+         id="bacata"
          download-size="0"
          install-size="0"
          version="0.0.0"
