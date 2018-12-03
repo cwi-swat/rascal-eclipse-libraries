@@ -5,13 +5,11 @@
       version="0.1.1.qualifier">
 
    <description url="https://github.com/cwi-swat/bacata">
-      This is a Rascal library which bridges the Jupyter notebook platform
-to the Rascal language workbench.
+      This is a Rascal library which bridges the Jupyter notebook platform to the Rascal language workbench.
    </description>
 
    <copyright>
-      Copyright (c) 2016-2018, Mauricio Verano Merino, Jurgen Vinju,
-and Tijs van der Storm, Eindhoven University
+      Copyright (c) 2016-2018, Mauricio Verano Merino, Jurgen Vinju, and Tijs van der Storm, Eindhoven University
 of Technology &amp; Centrum Wiskunde en Informatica
 All rights reserved.
 Redistribution and use in source and binary forms, with or without
