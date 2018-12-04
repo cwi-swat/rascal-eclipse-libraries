@@ -17,6 +17,7 @@
 			<groupId>${project.groupId}</groupId>
 			<artifactId>bacata-rascal</artifactId>
 			<version>0.1.1-SNAPSHOT</version>
+			<type>eclipse-plugin</type>
 		</dependency>
 	</dependencies>
 </project>
