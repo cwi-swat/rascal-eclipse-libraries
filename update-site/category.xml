@@ -12,7 +12,7 @@
    <feature url="features/typepal_feature_0.2.0.qualifier.jar" id="typepal_feature" version="0.2.0.qualifier">
       <category name="rascal_libraries"/>
    </feature>
-   <feature url="features/bacata_feature_0.1.1.qualifier.jar" id="bacata_feature" version="0.1.1.qualifier">
+   <feature url="features/bacata_feature_0.1.0.qualifier.jar" id="bacata_feature" version="0.1.0.qualifier">
       <category name="rascal_libraries"/>
    </feature>
    <category-def name="rascal_libraries" label="Rascal Libraries">
