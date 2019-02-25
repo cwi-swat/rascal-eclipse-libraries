@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
-      id="bacata_feature"
-      label="bacata_feature"
+      id="rascalNotebook_feature"
+      label="rascalNotebook_feature"
       version="0.1.0.qualifier">
 
    <description url="https://github.com/cwi-swat/bacata">
