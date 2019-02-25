@@ -1,0 +1,27 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+		<groupId>org.rascalmpl</groupId>
+		<artifactId>rascal-eclipse-libraries</artifactId>
+		<version>0.1.0-SNAPSHOT</version>
+	</parent>
+	
+	<artifactId>rascalNotebook_feature</artifactId>
+	<packaging>eclipse-feature</packaging>
+
+	<dependencies>
+		<dependency>
+			<groupId>${project.groupId}</groupId>
+			<artifactId>rascal-notebook</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+			<type>eclipse-plugin</type>
+		</dependency>
+		<dependency>
+			<groupId>org.rascalmpl</groupId>
+			<artifactId>impulse</artifactId>
+			<version>0.3.0-SNAPSHOT</version>
+		</dependency>
+	</dependencies>
+</project>
