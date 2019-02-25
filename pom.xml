@@ -20,6 +20,7 @@
 		<module>salix-feature</module>
 		<module>typepal-feature</module>
 		<module>bacata-feature</module>
+		<module>rascalNotebook-feature</module>
 		<module>update-site</module>
 	</modules>
 
