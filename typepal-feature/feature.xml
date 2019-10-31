@@ -2,7 +2,7 @@
 <feature
       id="typepal_feature"
       label="typepal_feature"
-      version="0.2.0.qualifier">
+      version="0.3.0.qualifier">
 
    <description url="https://github.com/cwi-swat/typepal">
       This is a Rascal library which can be used to describe Type Checkers.
