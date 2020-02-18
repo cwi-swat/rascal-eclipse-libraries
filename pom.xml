@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>io.usethesource</groupId>
 		<artifactId>pom-parent</artifactId>
-		<version>0.2.0</version>
+		<version>0.3.5</version>
 	</parent>
 
 	<groupId>org.rascalmpl</groupId>
@@ -33,7 +33,7 @@
     <repositories>
         <repository>
             <id>usethesource-snapshots</id>
-            <url>http://nexus.usethesource.io/content/repositories/snapshots/</url>
+            <url>https://nexus.usethesource.io/content/repositories/snapshots/</url>
         </repository>
     </repositories>
 </project>
