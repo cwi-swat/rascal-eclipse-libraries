@@ -4,7 +4,7 @@
 
 	<parent>
 		<groupId>io.usethesource</groupId>
-		<artifactId>pom-parent</artifactId>
+		<artifactId>pom_parent</artifactId>
 		<version>0.3.5</version>
 	</parent>
 
