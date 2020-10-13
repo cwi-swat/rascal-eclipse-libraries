@@ -23,4 +23,5 @@
          This is a group of Eclipse plugins implemented in Rascal and all depending on the Rascal plugin to Eclipse. They are generic reusable libraries (object language independent) or specific libraries to provide support for (specific) programming languages.
       </description>
    </category-def>
+   <repository-reference location="https://update.rascal-mpl.org/typepal" enabled="true"/>
 </site>

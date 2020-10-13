@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
+   <description name="Rascal Eclipse Libraries" url="https://update.rascal-mpl.org/libs">
+      Update site for Rascal libraries which are available as Eclipse plugins.
+   </description>
    <feature url="features/shapes_feature_1.0.0.201709131919.jar" id="shapes_feature" version="1.0.0.201709131919">
       <category name="RascalLibraries"/>
    </feature>
@@ -7,9 +10,6 @@
       <category name="RascalLibraries"/>
    </feature>
    <feature url="features/salix_feature_0.1.0.qualifier.jar" id="salix_feature" version="0.1.0.qualifier">
-      <category name="RascalLibraries"/>
-   </feature>
-   <feature url="features/typepal_feature_0.2.0.qualifier.jar" id="typepal_feature" version="0.2.0.qualifier">
       <category name="RascalLibraries"/>
    </feature>
    <feature url="features/bacata_feature_0.1.0.qualifier.jar" id="bacata_feature" version="0.1.0.qualifier">
