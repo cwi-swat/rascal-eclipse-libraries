@@ -18,5 +18,9 @@
    <feature url="features/rascalNotebook_feature_0.1.0.qualifier.jar" id="rascalNotebook_feature" version="0.1.0.qualifier">
       <category name="RascalLibraries"/>
    </feature>
+   <feature url="features/allealle_feature_0.1.0.qualifier.jar" id="allealle_feature" version="0.1.0.qualifier">
+      <category name="RascalLibraries"/>
+   </feature>
+   
    <category-def name="RascalLibraries" label="Rascal Libraries"/>
 </site>

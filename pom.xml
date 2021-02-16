@@ -18,16 +18,20 @@
 		<module>shapes-feature</module>
 		<module>clair-feature</module>
 		<module>salix-feature</module>
+		<module>allealle-feature</module>
 		<module>update-site</module>
 	</modules>
 
 	<properties>
 		<maven.deploy.skip>true</maven.deploy.skip>
-
-		<tycho-version>1.4.0</tycho-version>
+		<!-- <tycho-version>1.4.0</tycho-version> -->
 	</properties>
 
     <repositories>
+       <repository>
+            <id>usethesource-releases</id>
+            <url>https://nexus.usethesource.io/content/repositories/releases</url>
+        </repository>
         <repository>
             <id>usethesource-snapshots</id>
             <url>https://nexus.usethesource.io/content/repositories/snapshots/</url>
